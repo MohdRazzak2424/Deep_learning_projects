@@ -1,4 +1,4 @@
-# ShapeAI_PYTHON_FOR_BEGINNER_BOOTCAMP_FINAL_PROJECT-
+# ShapeAI_PYTHON AND DEAP_LEWRNING_BOOTCAMP_FINAL_PROJECT-
 
 
 
@@ -10,7 +10,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> DevTown
 The instructor during the session was Mr. Shaurya Sinha (Co-Founder at DevTown). I got to
 learn a lot during these 7 days and it was an amazing experience learning with DevTown.
 <br>
-<img src="https://github.com/MohdRazzak2424/ShapeAI_MACHINE_LEARNING_BOOTCAMP_PROJECT/blob/main/download.jfif"> </a>
+<img src="https://github.com/MohdRazzak2424/ShapeAI_PYTHON_FOR_BEGINNER_BOOTCAMP_FINAL_PROJECT-/blob/9d1901d5ff8759f145731303c3ad8dc5d6d24e0a/IMG-20221028-WA0003.jpg "> </a>
 <br>I got to have hands on experience on:
 <li>Python
 
