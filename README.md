@@ -4,7 +4,7 @@
 
 
 
-# DevTown PYTHON FOR BEGINNER BOOTCAMP
+# DevTown PYTHON AND DEEP LEARNING BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> DevTown
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Co-Founder at DevTown). I got to
